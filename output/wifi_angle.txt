@@ -1,0 +1,4 @@
+WIFI
+Rede:palaciodorio
+Senha:0102030405
+Acessográtis
